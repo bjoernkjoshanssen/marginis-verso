@@ -4,6 +4,11 @@ Released under Apache 2.0 license as described in the file LICENSE.
 Author: David Thrane Christiansen
 -/
 
+
+-- ANCHOR: myNat
+def myNat : Nat := 5
+-- ANCHOR_END: myNat
+
 -- ANCHOR: Zipper
 class Zipper
     (α : outParam (Type u)) (δ : outParam (Type w))
