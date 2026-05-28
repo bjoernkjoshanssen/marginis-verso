@@ -51,7 +51,7 @@ This document's setup has the following properties:
 The library here was chosen to be small.
 It is not intended as a realistic library, but rather to exercise certain interesting features.
 
-# Journal of Logic and Analysis
+# Zippers
 
 A _zipper_{citep theZipper}[] is a purely-functional cursor into a data structure.
 They're equivalent to maintaining a description of a position (e.g. an index into a list or a series of left-right subtree decisions in a tree), but do not require traversing the prefix of the data structure.
