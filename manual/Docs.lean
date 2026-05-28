@@ -73,6 +73,8 @@ class Zipper
 def myNat : Nat := 5
 ```
 
+MORE TESTING
+
 The type {anchorTerm Zipper}`δ` indicates the directions in which a zipper may move.
 :::
 
