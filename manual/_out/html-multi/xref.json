@@ -26,18 +26,6 @@
         "number": null},
        {"title": "Index", "shortTitle": null, "number": null}]},
      "address": "/Index/"}],
-   "Zippers___-A-Documentation-Example--Zippers":
-   [{"id": "Zippers___-A-Documentation-Example--Zippers",
-     "data":
-     {"title": "Zippers",
-      "shortTitle": null,
-      "sectionNum": "1.",
-      "context":
-      [{"title": "Zippers: A Documentation Example",
-        "shortTitle": "Zippers",
-        "number": null},
-       {"title": "Zippers", "shortTitle": null, "number": "1"}]},
-     "address": "/Zippers/"}],
    "Zippers___-A-Documentation-Example--Viewing-the-Output":
    [{"id": "Zippers___-A-Documentation-Example--Viewing-the-Output",
      "data":
@@ -74,6 +62,20 @@
         "number": null},
        {"title": "Notes", "shortTitle": null, "number": "3"}]},
      "address": "/Notes/"}],
+   "Zippers___-A-Documentation-Example--Journal-of-Logic-and-Analysis":
+   [{"id": "Zippers___-A-Documentation-Example--Journal-of-Logic-and-Analysis",
+     "data":
+     {"title": "Journal of Logic and Analysis",
+      "shortTitle": null,
+      "sectionNum": "1.",
+      "context":
+      [{"title": "Zippers: A Documentation Example",
+        "shortTitle": "Zippers",
+        "number": null},
+       {"title": "Journal of Logic and Analysis",
+        "shortTitle": null,
+        "number": "1"}]},
+     "address": "/Journal-of-Logic-and-Analysis/"}],
    "Zippers___-A-Documentation-Example--Documentation-Features--Example-Modules":
    [{"id":
      "Zippers___-A-Documentation-Example--Documentation-Features--Example-Modules",
@@ -144,177 +146,207 @@
   {"myNat":
    [{"id": "myNat",
      "data":
-     {"/Zippers/#myNat":
+     {"/Journal-of-Logic-and-Analysis/#myNat":
       {"display": "myNat",
-       "context": ["Zippers: A Documentation Example", "Zippers"]}},
-     "address": "/Zippers/"}],
+       "context":
+       ["Zippers: A Documentation Example", "Journal of Logic and Analysis"]}},
+     "address": "/Journal-of-Logic-and-Analysis/"}],
    "Zipper.move":
    [{"id": "Zipper___move",
      "data":
-     {"/Zippers/#Zipper___move":
+     {"/Journal-of-Logic-and-Analysis/#Zipper___move":
       {"display": "move",
-       "context": ["Zippers: A Documentation Example", "Zippers"]}},
-     "address": "/Zippers/"}],
+       "context":
+       ["Zippers: A Documentation Example", "Journal of Logic and Analysis"]}},
+     "address": "/Journal-of-Logic-and-Analysis/"}],
    "Zipper.init":
    [{"id": "Zipper___init",
      "data":
-     {"/Zippers/#Zipper___init":
+     {"/Journal-of-Logic-and-Analysis/#Zipper___init":
       {"display": "init",
-       "context": ["Zippers: A Documentation Example", "Zippers"]}},
-     "address": "/Zippers/"}],
+       "context":
+       ["Zippers: A Documentation Example", "Journal of Logic and Analysis"]}},
+     "address": "/Journal-of-Logic-and-Analysis/"}],
    "Zipper.close":
    [{"id": "Zipper___close",
      "data":
-     {"/Zippers/#Zipper___close":
+     {"/Journal-of-Logic-and-Analysis/#Zipper___close":
       {"display": "close",
-       "context": ["Zippers: A Documentation Example", "Zippers"]}},
-     "address": "/Zippers/"}],
+       "context":
+       ["Zippers: A Documentation Example", "Journal of Logic and Analysis"]}},
+     "address": "/Journal-of-Logic-and-Analysis/"}],
    "Zipper.ListZipper.z1":
    [{"id": "Zipper___ListZipper___z1",
      "data":
-     {"/Zippers/#Zipper___ListZipper___z1":
+     {"/Journal-of-Logic-and-Analysis/#Zipper___ListZipper___z1":
       {"display": "z1",
-       "context": ["Zippers: A Documentation Example", "Zippers"]}},
-     "address": "/Zippers/"}],
+       "context":
+       ["Zippers: A Documentation Example", "Journal of Logic and Analysis"]}},
+     "address": "/Journal-of-Logic-and-Analysis/"}],
    "Zipper.ListZipper.revBefore":
    [{"id": "Zipper___ListZipper___revBefore",
      "data":
-     {"/Zippers/#Zipper___ListZipper___revBefore":
+     {"/Journal-of-Logic-and-Analysis/#Zipper___ListZipper___revBefore":
       {"display": "revBefore",
-       "context": ["Zippers: A Documentation Example", "Zippers"]}},
-     "address": "/Zippers/"}],
+       "context":
+       ["Zippers: A Documentation Example", "Journal of Logic and Analysis"]}},
+     "address": "/Journal-of-Logic-and-Analysis/"}],
    "Zipper.ListZipper.close.close'":
    [{"id": "Zipper___ListZipper___close___close___",
      "data":
-     {"/Zippers/#Zipper___ListZipper___close___close___":
+     {"/Journal-of-Logic-and-Analysis/#Zipper___ListZipper___close___close___":
       {"display": "close'",
-       "context": ["Zippers: A Documentation Example", "Zippers"]}},
-     "address": "/Zippers/"}],
+       "context":
+       ["Zippers: A Documentation Example", "Journal of Logic and Analysis"]}},
+     "address": "/Journal-of-Logic-and-Analysis/"}],
    "Zipper.ListZipper.close":
    [{"id": "Zipper___ListZipper___close",
      "data":
-     {"/Zippers/#Zipper___ListZipper___close-next":
+     {"/Journal-of-Logic-and-Analysis/#Zipper___ListZipper___close-next":
       {"display": "ListZipper.close",
-       "context": ["Zippers: A Documentation Example", "Zippers"]},
-      "/Zippers/#Zipper___ListZipper___close":
+       "context":
+       ["Zippers: A Documentation Example", "Journal of Logic and Analysis"]},
+      "/Journal-of-Logic-and-Analysis/#Zipper___ListZipper___close":
       {"display": "close",
-       "context": ["Zippers: A Documentation Example", "Zippers"]}},
-     "address": "/Zippers/"},
+       "context":
+       ["Zippers: A Documentation Example", "Journal of Logic and Analysis"]}},
+     "address": "/Journal-of-Logic-and-Analysis/"},
     {"id": "Zipper___ListZipper___close-next",
      "data":
-     {"/Zippers/#Zipper___ListZipper___close-next":
+     {"/Journal-of-Logic-and-Analysis/#Zipper___ListZipper___close-next":
       {"display": "ListZipper.close",
-       "context": ["Zippers: A Documentation Example", "Zippers"]},
-      "/Zippers/#Zipper___ListZipper___close":
+       "context":
+       ["Zippers: A Documentation Example", "Journal of Logic and Analysis"]},
+      "/Journal-of-Logic-and-Analysis/#Zipper___ListZipper___close":
       {"display": "close",
-       "context": ["Zippers: A Documentation Example", "Zippers"]}},
-     "address": "/Zippers/"}],
+       "context":
+       ["Zippers: A Documentation Example", "Journal of Logic and Analysis"]}},
+     "address": "/Journal-of-Logic-and-Analysis/"}],
    "Zipper.ListZipper.after":
    [{"id": "Zipper___ListZipper___after",
      "data":
-     {"/Zippers/#Zipper___ListZipper___after":
+     {"/Journal-of-Logic-and-Analysis/#Zipper___ListZipper___after":
       {"display": "after",
-       "context": ["Zippers: A Documentation Example", "Zippers"]}},
-     "address": "/Zippers/"}],
+       "context":
+       ["Zippers: A Documentation Example", "Journal of Logic and Analysis"]}},
+     "address": "/Journal-of-Logic-and-Analysis/"}],
    "Zipper.ListZipper.add":
    [{"id": "Zipper___ListZipper___add-next",
      "data":
-     {"/Zippers/#Zipper___ListZipper___add-next":
+     {"/Journal-of-Logic-and-Analysis/#Zipper___ListZipper___add-next":
       {"display": "ListZipper.add",
-       "context": ["Zippers: A Documentation Example", "Zippers"]},
-      "/Zippers/#Zipper___ListZipper___add":
+       "context":
+       ["Zippers: A Documentation Example", "Journal of Logic and Analysis"]},
+      "/Journal-of-Logic-and-Analysis/#Zipper___ListZipper___add":
       {"display": "add",
-       "context": ["Zippers: A Documentation Example", "Zippers"]}},
-     "address": "/Zippers/"},
+       "context":
+       ["Zippers: A Documentation Example", "Journal of Logic and Analysis"]}},
+     "address": "/Journal-of-Logic-and-Analysis/"},
     {"id": "Zipper___ListZipper___add",
      "data":
-     {"/Zippers/#Zipper___ListZipper___add-next":
+     {"/Journal-of-Logic-and-Analysis/#Zipper___ListZipper___add-next":
       {"display": "ListZipper.add",
-       "context": ["Zippers: A Documentation Example", "Zippers"]},
-      "/Zippers/#Zipper___ListZipper___add":
+       "context":
+       ["Zippers: A Documentation Example", "Journal of Logic and Analysis"]},
+      "/Journal-of-Logic-and-Analysis/#Zipper___ListZipper___add":
       {"display": "add",
-       "context": ["Zippers: A Documentation Example", "Zippers"]}},
-     "address": "/Zippers/"}],
+       "context":
+       ["Zippers: A Documentation Example", "Journal of Logic and Analysis"]}},
+     "address": "/Journal-of-Logic-and-Analysis/"}],
    "Zipper.ListZipper.Dir.right":
    [{"id": "Zipper___ListZipper___Dir___right",
      "data":
-     {"/Zippers/#Zipper___ListZipper___Dir___right":
+     {"/Journal-of-Logic-and-Analysis/#Zipper___ListZipper___Dir___right":
       {"display": "right",
-       "context": ["Zippers: A Documentation Example", "Zippers"]}},
-     "address": "/Zippers/"}],
+       "context":
+       ["Zippers: A Documentation Example", "Journal of Logic and Analysis"]}},
+     "address": "/Journal-of-Logic-and-Analysis/"}],
    "Zipper.ListZipper.Dir.left":
    [{"id": "Zipper___ListZipper___Dir___left",
      "data":
-     {"/Zippers/#Zipper___ListZipper___Dir___left":
+     {"/Journal-of-Logic-and-Analysis/#Zipper___ListZipper___Dir___left":
       {"display": "left",
-       "context": ["Zippers: A Documentation Example", "Zippers"]}},
-     "address": "/Zippers/"}],
+       "context":
+       ["Zippers: A Documentation Example", "Journal of Logic and Analysis"]}},
+     "address": "/Journal-of-Logic-and-Analysis/"}],
    "Zipper.ListZipper.Dir":
    [{"id": "Zipper___ListZipper___Dir",
      "data":
-     {"/Zippers/#Zipper___ListZipper___Dir":
+     {"/Journal-of-Logic-and-Analysis/#Zipper___ListZipper___Dir":
       {"display": "Dir",
-       "context": ["Zippers: A Documentation Example", "Zippers"]}},
-     "address": "/Zippers/"}],
+       "context":
+       ["Zippers: A Documentation Example", "Journal of Logic and Analysis"]}},
+     "address": "/Journal-of-Logic-and-Analysis/"}],
    "Zipper.ListZipper":
    [{"id": "Zipper___ListZipper",
      "data":
-     {"/Zippers/#Zipper___ListZipper":
+     {"/Journal-of-Logic-and-Analysis/#Zipper___ListZipper":
       {"display": "ListZipper",
-       "context": ["Zippers: A Documentation Example", "Zippers"]}},
-     "address": "/Zippers/"}],
+       "context":
+       ["Zippers: A Documentation Example", "Journal of Logic and Analysis"]}},
+     "address": "/Journal-of-Logic-and-Analysis/"}],
    "Zipper":
    [{"id": "Zipper",
      "data":
-     {"/Zippers/#Zipper-next":
+     {"/Journal-of-Logic-and-Analysis/#Zipper-next":
       {"display": "Zipper",
-       "context": ["Zippers: A Documentation Example", "Zippers"]},
-      "/Zippers/#Zipper":
+       "context":
+       ["Zippers: A Documentation Example", "Journal of Logic and Analysis"]},
+      "/Journal-of-Logic-and-Analysis/#Zipper":
       {"display": "Zipper",
-       "context": ["Zippers: A Documentation Example", "Zippers"]}},
-     "address": "/Zippers/"},
+       "context":
+       ["Zippers: A Documentation Example", "Journal of Logic and Analysis"]}},
+     "address": "/Journal-of-Logic-and-Analysis/"},
     {"id": "Zipper-next",
      "data":
-     {"/Zippers/#Zipper-next":
+     {"/Journal-of-Logic-and-Analysis/#Zipper-next":
       {"display": "Zipper",
-       "context": ["Zippers: A Documentation Example", "Zippers"]},
-      "/Zippers/#Zipper":
+       "context":
+       ["Zippers: A Documentation Example", "Journal of Logic and Analysis"]},
+      "/Journal-of-Logic-and-Analysis/#Zipper":
       {"display": "Zipper",
-       "context": ["Zippers: A Documentation Example", "Zippers"]}},
-     "address": "/Zippers/"}],
+       "context":
+       ["Zippers: A Documentation Example", "Journal of Logic and Analysis"]}},
+     "address": "/Journal-of-Logic-and-Analysis/"}],
    "LawfulZipper.init_close":
    [{"id": "LawfulZipper___init_close",
      "data":
-     {"/Zippers/#LawfulZipper___init_close":
+     {"/Journal-of-Logic-and-Analysis/#LawfulZipper___init_close":
       {"display": "init_close",
-       "context": ["Zippers: A Documentation Example", "Zippers"]}},
-     "address": "/Zippers/"}],
+       "context":
+       ["Zippers: A Documentation Example", "Journal of Logic and Analysis"]}},
+     "address": "/Journal-of-Logic-and-Analysis/"}],
    "LawfulZipper.close_init":
    [{"id": "LawfulZipper___close_init",
      "data":
-     {"/Zippers/#LawfulZipper___close_init":
+     {"/Journal-of-Logic-and-Analysis/#LawfulZipper___close_init":
       {"display": "close_init",
-       "context": ["Zippers: A Documentation Example", "Zippers"]}},
-     "address": "/Zippers/"}],
+       "context":
+       ["Zippers: A Documentation Example", "Journal of Logic and Analysis"]}},
+     "address": "/Journal-of-Logic-and-Analysis/"}],
    "LawfulZipper":
    [{"id": "LawfulZipper-next",
      "data":
-     {"/Zippers/#LawfulZipper-next":
+     {"/Journal-of-Logic-and-Analysis/#LawfulZipper-next":
       {"display": "LawfulZipper",
-       "context": ["Zippers: A Documentation Example", "Zippers"]},
-      "/Zippers/#LawfulZipper":
+       "context":
+       ["Zippers: A Documentation Example", "Journal of Logic and Analysis"]},
+      "/Journal-of-Logic-and-Analysis/#LawfulZipper":
       {"display": "LawfulZipper",
-       "context": ["Zippers: A Documentation Example", "Zippers"]}},
-     "address": "/Zippers/"},
+       "context":
+       ["Zippers: A Documentation Example", "Journal of Logic and Analysis"]}},
+     "address": "/Journal-of-Logic-and-Analysis/"},
     {"id": "LawfulZipper",
      "data":
-     {"/Zippers/#LawfulZipper-next":
+     {"/Journal-of-Logic-and-Analysis/#LawfulZipper-next":
       {"display": "LawfulZipper",
-       "context": ["Zippers: A Documentation Example", "Zippers"]},
-      "/Zippers/#LawfulZipper":
+       "context":
+       ["Zippers: A Documentation Example", "Journal of Logic and Analysis"]},
+      "/Journal-of-Logic-and-Analysis/#LawfulZipper":
       {"display": "LawfulZipper",
-       "context": ["Zippers: A Documentation Example", "Zippers"]}},
-     "address": "/Zippers/"}]}},
+       "context":
+       ["Zippers: A Documentation Example", "Journal of Logic and Analysis"]}},
+     "address": "/Journal-of-Logic-and-Analysis/"}]}},
  "Verso.Genre.Manual.doc.tech":
  {"title": "Terminology",
   "description": "Definitions of technical terms",
